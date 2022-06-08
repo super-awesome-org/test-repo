@@ -1,0 +1,5 @@
+# Changes here will be overwritten by Copier
+_commit: v0.0.6
+_src_path: gh:telia-company/casf-template-python.git
+projectName: CASF
+pythonVersion: '3.8'
